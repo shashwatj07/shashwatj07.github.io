@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://illinois.edu/'>University of Illinis Urbana-Champiagn</a>, USA #. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>3111-3 Thomas M. Siebel Center for Computer Science</p>
+    <p>201 N Goodwin Ave</p>
+    <p>Urbana, IL, USA 61801</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
