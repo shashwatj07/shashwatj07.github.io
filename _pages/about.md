@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a CS PhD student at University of Illinois Urbana-Champaign. I am working with Prof Indranil Gupts and Prof Josep Torrellas.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to UIUC, I completed my undergraduate progam at IIT Bhilai where I worked with Dr Yogesh Simmhan, Dr Subhajit Sidhanta and Dr Dhiman Saha. My thesis enatiled building a lightweight distributed storage engine for drone fleets.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my time at The University of British Columbia, I worked with Prof Matei Ripeanu and Prof Karthik Pattabiraman.
