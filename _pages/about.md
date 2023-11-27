@@ -6,7 +6,7 @@ subtitle: <a href='https://illinois.edu/'>University of Illinis Urbana-Champiagn
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3111-3 Thomas M. Siebel Center for Computer Science</p>
