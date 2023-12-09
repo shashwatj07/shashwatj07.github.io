@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a CS PhD student at University of Illinois Urbana-Champaign. I am working with Prof Indranil Gupts and Prof Josep Torrellas.
+I am a CS PhD student at [University of Illinois Urbana-Champaign](www.illinois.edu). I am working with [Prof Indranil Gupts](https://indy.cs.illinois.edu/) and [Prof Josep Torrellas](https://iacoma.cs.uiuc.edu/josep/torrellas.html). I am working on multiple Systems and Networking topics including but not limited to Disaggregated Memory, LEO Satellites, ML Compilers and Edge Systems.
 
-Prior to UIUC, I completed my undergraduate progam at IIT Bhilai where I worked with Dr Yogesh Simmhan, Dr Subhajit Sidhanta and Dr Dhiman Saha. My thesis enatiled building a lightweight distributed storage engine for drone fleets.
+Prior to UIUC, I completed my undergraduate progam at [IIT Bhilai](https://www.iitbhilai.ac.in/) where I worked with [Dr Yogesh Simmhan](https://cds.iisc.ac.in/faculty/simmhan/) ([IISc](www.iisc.ac.in)), [Dr Subhajit Sidhanta](https://iitbhilai.ac.in/index.php?pid=subhajit) and [Dr Dhiman Saha](https://www.iitbhilai.ac.in/index.php?pid=dhiman). My thesis enatiled building a lightweight distributed storage engine for drone fleets.
 
-During my time at The University of British Columbia, I worked with Prof Matei Ripeanu and Prof Karthik Pattabiraman.
+During my time at [The University of British Columbia](www.ubc.ca), I worked with [Prof Matei Ripeanu](https://people.ece.ubc.ca/matei/) and [Prof Karthik Pattabiraman](https://blogs.ubc.ca/karthik/). At UBC, my research dealt with variability and ML on the edge.
