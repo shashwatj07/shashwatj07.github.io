@@ -3,18 +3,20 @@
   contents:
     - name: Full Name
       value: Shashwat Jaiswal
-    - name: Date of Birth
-      value: 7th August 2001
+    # - name: Date of Birth
+    #   value: 7th August 2001
     - name: Languages
       value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Doctor of Philosophy (PhD)
       institution: University of Illinois Urbana-Champaign, IL, USA
-      year: 2023 - Present
-      # description:
+      year: 2023 - 2028
+      description:
+        - 'Focus: Distributed Systems, AI Infrastructure, Memory Systems'
+        - Kenichi Miura Award
       #   - Description 1.
       #   - Description 2.
       #   - title: Description 3.
@@ -31,8 +33,20 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: Bytedance Seed
+      year: 2026
+    - title: Research Intern
+      institution: Microsoft Research
+      year: 2025
+    - title: Student Researcher
+      institution: Google
+      year: 2025
+    - title: Research Intern
+      institution: Microsoft Research
+      year: 2024
     - title: Visiting International Research Student
-      institution: The University of Biritsh Columbia, Vancouver
+      institution: The University of British Columbia, Vancouver
       year: 2023
       # description:
       #   - Description 1.
@@ -42,7 +56,7 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
 
-    - title: Intern
+    - title: Cloud Engineer Intern
       institution: Google
       year: 2022
 
@@ -73,6 +87,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Kenichi Miura Award
+        - Heidelberg Laureate Fellowship
+    - year: 2025
+      items:
+        - Best Paper Award at ASPLOS
+    - year: 2024
+      items:
+        - President of India Gold Medal
+        - IIT Bhilai Senate Award for Academic Excellence
     - year: 2023
       items:
         - Best Paper Award at EdgeSys (EuroSys)
